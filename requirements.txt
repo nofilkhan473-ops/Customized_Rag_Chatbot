@@ -1,0 +1,8 @@
+faiss-cpu
+langchain
+langchain-community
+langchain-classic
+langchain-groq
+sentence-transformers
+gradio
+pypdf
